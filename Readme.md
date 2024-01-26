@@ -1,0 +1,3 @@
+# MNIST Image Classification with TensorFlow
+
+This repository contains a simple image classification model using TensorFlow and Keras. The model is trained on the MNIST dataset, recognizing handwritten digits (0-9). The Python script, `index.py`, demonstrates loading and preprocessing the data, building a convolutional neural network (CNN), compiling, training, and evaluating the model. Users can easily adapt the code for their own tasks. To get started, install TensorFlow using `pip install tensorflow`. For detailed instructions, refer to the [official TensorFlow documentation](https://www.tensorflow.org/install). The model provides a foundation for understanding image classification workflows with TensorFlow.
